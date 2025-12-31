@@ -1,4 +1,4 @@
-# Case 001 - Multiple Failed Authentication Attempts Detected
+# Case 001 - Suspected Brute Force Authentication Attempt
 
 **Case Type:** Incoming Alert  
 **Severity (Initial):** Medium  
