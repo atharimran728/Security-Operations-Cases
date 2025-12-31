@@ -1,3 +1,7 @@
+https://github.com/atharimran728/Security-Operations-Cases/blob/main/SOC%20Case%20banner.png
+
+[![Banner](https://github.com/atharimran728/Security-Operations-Cases/blob/main/SOC%20Case%20banner.png)]([link_url](https://github.com/atharimran728/Security-Operations-Cases/))
+
 # Security Operations Cases
 
 A collection of realistic Security Operations Center (SOC) investigation cases documenting alert triage, analysis logic, and decision-making. This repository emphasizes **SOC-grade thinking**, not tool-dependent execution.
