@@ -1,4 +1,4 @@
-[![Banner](https://github.com/atharimran728/Security-Operations-Cases/blob/main/SOC%20Case%20banner.png)]([link_url](https://github.com/atharimran728/Security-Operations-Cases/))
+[![Banner](https://github.com/atharimran728/Security-Operations-Cases/blob/main/SOC%20Case%20banner.png)](https://github.com/atharimran728/Security-Operations-Cases/tree/main)
 
 # Security Operations Cases
 
