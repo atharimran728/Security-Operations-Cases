@@ -39,7 +39,6 @@ This ensures clarity and reproducibility for all alerts.
 
 ## Contribution
 
-This is a personal portfolio repo.  
 If you wish to contribute, please respect the **SOC-quality, plain-English structure** and maintain realistic, evidence-driven cases.
 
 ---
