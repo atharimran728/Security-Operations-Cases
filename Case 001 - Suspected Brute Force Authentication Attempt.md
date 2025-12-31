@@ -2,7 +2,7 @@
 
 **Case Type:** Incoming Alert  
 **Severity (Initial):** Medium  
-**Status:** Investigated → Decision Made  
+**Status:** Investigated → Decision Made    
 
 ---
 
