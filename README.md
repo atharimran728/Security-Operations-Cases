@@ -4,7 +4,7 @@ A collection of realistic Security Operations Center (SOC) investigation cases d
 
 ---
 
-## Purpose
+## Purpose 
 
 This repo is designed to demonstrate the analytical process of a SOC analyst. It focuses on:
 
