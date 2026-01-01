@@ -4,7 +4,7 @@
 
 A collection of realistic Security Operations Center (SOC) investigation cases documenting alert triage, analysis logic, and decision-making. This repository emphasizes **SOC-grade thinking**, not tool-dependent execution.
 
----
+--- 
 
 ## Purpose 
 
