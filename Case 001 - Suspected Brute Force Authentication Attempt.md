@@ -5,7 +5,7 @@
 **Status:** Investigated → Decision Made    
 
 ---
-
+ 
 ## Alert Summary
 
 An alert was generated indicating multiple failed authentication attempts against a Windows host within a short time window. The failures originated from a single source IP and targeted the same user account.
