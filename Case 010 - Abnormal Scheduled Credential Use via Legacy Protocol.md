@@ -26,7 +26,7 @@ The frequency is unusual for the account, and the destination or target is uncom
 
 ---
 
-## Detection Hypothesis (Plain English)
+## Detection Hypothesis
 
 If a user account performs scheduled or automated logins over legacy protocols outside normal usage patterns, it may indicate **credential abuse or potential compromise**.
 
